@@ -1,0 +1,8 @@
+Color,Approximate Surface Temperature,Average Mass (The Sun = 1),Average Radius (The Sun = 1),Average Luminosity (The Sun = 1),Main Characteristics,Examples
+Blue,"over 25,000 K",60.0,15.0,1400000,Singly ionized helium lines (H I) either in emission or absorption. Strong UV continuum.,10 Lacertra
+Blue,"11,000 - 25,000 K",18.0,7.0,20000,Neutral helium lines (H II) in absorption.,Rigel  Spica
+Blue,"7,500 - 11,000 K",3.2,2.5,80,"Hydrogen (H) lines strongest for A0 stars, decreasing for other A's.","Sirius, Vega"
+Blue to White,"6,000 - 7,500 K",1.7,1.3,6,Ca II absorption. Metallic lines become noticeable.,"Canopus, Procyon"
+White to Yellow,"5,000 - 6,000 K",1.1,1.1,1.2,Absorption lines of neutral metallic atoms and ions (e.g. once-ionized calcium).,"Sun, Capella"
+Orange to Red,"3,500 - 5,000 K",0.8,0.9,0.4,"Metallic lines, some blue continuum.","Arcturus, Aldebaran"
+Red,"under 3,500 K",0.3,0.4,0.04(very faint),Some molecular bands of titanium oxide.,"Betelgeuse, Antares"

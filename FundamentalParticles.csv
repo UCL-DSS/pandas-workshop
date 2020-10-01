@@ -1,0 +1,11 @@
+Particle Symbol  Particle name  Mass Value (MeV/c²)  Quark mass estimation scheme (point)
+"νe, νμ, ντ"  Neutrino(any type)  unknown
+e−  Electron  0.511    
+u  Up quark  1.9  MSbar scheme (μMS = 2 GeV)
+d  Down quark  4.4  MSbar scheme (μMS = 2 GeV)
+s  Strange quark  87  MSbar scheme (μMS = 2 GeV)
+μ−  Muon (Mu lepton)  105.7
+c  Charm quark  1320  MSbar scheme (μMS = mc)
+τ−  Tauon (tau lepton)  1780
+b  Bottom quark  4240  MSbar scheme (μMS = mb)
+t  Top quark  172700  On-shell scheme
