@@ -11,12 +11,13 @@ In this workshop we start to introduce our second Python package called Pandas. 
 ```shell
 
 ├── DS02 - Data Science with Python: Pandas
-│   ├── README.md
-│   ├── workshop.ipynb
-│   ├── StarColours.csv
+│   ├── FundamentalParticles.csv
 │   ├── H20.csv
+│   ├── README.md
+│   ├── StarColours.csv
+│   ├── Translational.csv
 │   ├── problem.ipynb
 │   ├── solution.ipynb
-    └── Translational.csv
+    └── workshop.ipynb
 
 ```
